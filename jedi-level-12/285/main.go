@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/franciscoxaviersp/go-learn/jedi-level-12/285/hands-on-1/dog"
+	"github.com/franciscoxaviersp/go-learn/jedi-level-12/285/dog"
 )
 
 func main() {
