@@ -1,6 +1,8 @@
 package mymath
 
-import "sort"
+import (
+	"sort"
+)
 
 // CenteredAvg computes the average of a list of numbers
 // after removing the largest and smallest values.
